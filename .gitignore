@@ -7,3 +7,18 @@ data/audit.jsonl
 .env
 .pytest_cache/
 .antigravity/
+
+# Virtual Environments
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Models
+*.model
+*.pt
+*.pth
+*.h5
+*.pkl
+models/
